@@ -29,6 +29,8 @@ This project is divided in the following key sections:
 |- classifier.pkl  # saved model 
 
 - README.md
+- LISENCE
+- requirements.txt
 ```
 
 
